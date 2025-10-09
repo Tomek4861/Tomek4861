@@ -62,9 +62,3 @@ I'm deeply passionate about the intersection of technology and finance, particul
 </table>
 
 ---
-
-### 📊 My GitHub Stats
-
-![Tomasz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tomek4861&show_icons=true&theme=tokyonight&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tomek4861&layout=compact&theme=tokyonight)](https://github.com/Tomek4861)
