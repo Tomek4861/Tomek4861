@@ -4,7 +4,8 @@ I'm a Software Developer and a final-year Computer Science student at Wrocław U
 
 I'm deeply passionate about the intersection of technology and finance, particularly in the crypto and trading space. I enjoy building tools that solve real-world problems.
 
-- 🔭 I'm currently focused on my flagship project, **Trade Taker** – a full-stack crypto trading tool built with Java/Spring.
+- 🔭 I'm currently working on my **Engineering Thesis - FUJI**, a mobile app for mastering Japanese handwriting with Java/Spring Backend.
+- 📈 I'm also developing **Trade Taker** – a personal project focused on crypto trading automation.
 - 🌱 I'm currently deepening my practical skills in containerization with **Docker** and **CI/CD pipelines**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/t-jaskolski/)
 
@@ -38,6 +39,12 @@ I'm deeply passionate about the intersection of technology and finance, particul
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#-my-tech-stack--tools">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#-my-tech-stack--tools">
