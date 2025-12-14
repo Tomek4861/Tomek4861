@@ -1,11 +1,11 @@
 ### Hi there, I'm Tomek 👋
 
-I'm a Software Developer and a final-year Computer Science student at Wrocław University of Science and Technology. My primary focus is building scalable, full-stack applications with the Java/Spring ecosystem, but I also have a strong background in Python.
+I'm a Software Developer and a final-year Computer Science student at Wrocław University of Science and Technology. My primary focus is building scalable backend and full-stack applications with the Java/Spring ecosystem, but I also have a strong background in Python.
 
 I'm deeply passionate about the intersection of technology and finance, particularly in the crypto and trading space. I enjoy building tools that solve real-world problems.
 
-- 🔭 I'm currently working on my **Engineering Thesis - FUJI**, a mobile app for mastering Japanese handwriting with Java/Spring Backend.
-- 📈 I'm also developing **Trade Taker** – a personal project focused on crypto trading automation.
+- 🔭 I'm currently working on my **Engineering Thesis - [FUJI](https://github.com/tomek4861/FUJI)**, a mobile app for mastering Japanese handwriting with Java/Spring Backend.
+- 📈 I'm also developing [**TradeTaker**](https://github.com/tomek4861/tradetaker) – a personal project focused on crypto trading automation.
 - 🌱 I'm currently deepening my practical skills in containerization with **Docker** and **CI/CD pipelines**.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/t-jaskolski/)
 
