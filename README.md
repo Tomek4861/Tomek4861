@@ -1,6 +1,6 @@
 ### Hi there, I'm Tomek 👋
 
-I'm a Software Developer and a final-year Computer Science student at Wrocław University of Science and Technology. My primary focus is building scalable backend with the Java/Spring ecosystem, but I am passionate about automation, security, and cloud infrastructure.
+I'm a Software Developer and a Computer Science Graduate at Wrocław University of Science and Technology. My primary focus is building scalable backend with the Java/Spring ecosystem, but I am passionate about automation, security, and cloud infrastructure.
 
 
 - 🔭 I'm currently working on my **Engineering Thesis - [FUJI](https://github.com/FUJI-ZPI/FUJI-backend)**, a mobile app for mastering Japanese handwriting with Java/Spring Backend.
