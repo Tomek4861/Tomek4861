@@ -1,11 +1,12 @@
 ### Hi there, I'm Tomek 👋
 
-I'm a Software Engineer at BNY and a Computer Science Graduate from Wrocław University of Science and Technology. My primary focus is building backend systems with Java, Kotlin, and Spring, with a strong interest in cloud infrastructure, automation, and security.
+I'm a Software Engineer at BNY and a Computer Science Graduate from Wrocław University of Science and Technology. My primary focus is building backend systems with Java, Kotlin, and Spring, with a strong interest in cloud infrastructure.
 
 - 🛠️ I built **[FUJI](https://github.com/FUJI-ZPI/FUJI-backend)**, a mobile app for mastering Japanese handwriting with a Java/Spring backend.
 - 📈 **[TradeTaker](https://github.com/tomek4861/tradetaker)** is a personal project focused on crypto trading risk management and analytics.
 - ☁️ I work primarily with Java, Kotlin, Spring Boot, PostgreSQL, Docker, CI/CD, and AWS.
 - 😎 I recently earned AWS Certified Solutions Architect – Associate and I am very happy about it.
+- 🤖 Currently getting into local LLMs.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/t-jaskolski/)
 
 
